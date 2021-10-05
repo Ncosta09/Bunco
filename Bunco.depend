@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1605496189 source:c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"UnJugador.h"
+	"AnalisisDados.h"
+	"GotoXY.h"
+	"MayorPuntaje.h"
+	"ModoSimulado.h"
+	"DosJugadores.h"
+	"FuncionesDados_Menu.h"
+
+1605571521 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\unjugador.h
+	"FuncionesDados.h"
+	"AnalisisDados.h"
+	"MayorPuntaje.h"
+	"FuncionesDados_Menu.h"
+	"GotoXY.h"
+
+1607525042 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\analisisdados.h
+	"GotoXY.h"
+
+1607525226 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\gotoxy.h
+
+1607525217 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\mayorpuntaje.h
+	"GotoXY.h"
+
+1607525204 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\modosimulado.h
+	"FuncionesDados.h"
+	"FuncionesDados_Menu.h"
+	"AnalisisDados.h"
+	"MayorPuntaje.h"
+	"GotoXY.h"
+
+1606253891 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\dosjugadores.h
+	"FuncionesDados.h"
+	"FuncionesDados_Menu.h"
+	"AnalisisDados_DJ.h"
+	"AnalisisDados.h"
+
+1605483441 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\analisisdados_dj.h
+	"GotoXY.h"
+	"AnalisisDados.h"
+
+1607525256 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\funcionesdados.h
+
+1605484891 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\funcionesdados_menu.h
+
+1603715401 c:\users\nicolas\desktop\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605496189 source:d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"UnJugador.h"
+	"AnalisisDados.h"
+	"GotoXY.h"
+	"MayorPuntaje.h"
+	"ModoSimulado.h"
+	"DosJugadores.h"
+	"FuncionesDados_Menu.h"
+
+1605571521 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\unjugador.h
+	"FuncionesDados.h"
+	"AnalisisDados.h"
+	"MayorPuntaje.h"
+	"FuncionesDados_Menu.h"
+	"GotoXY.h"
+
+1607525256 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\funcionesdados.h
+
+1607525042 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\analisisdados.h
+	"GotoXY.h"
+
+1607525226 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\gotoxy.h
+
+1607525217 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\mayorpuntaje.h
+	"GotoXY.h"
+
+1605484891 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\funcionesdados_menu.h
+
+1607525204 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\modosimulado.h
+	"FuncionesDados.h"
+	"FuncionesDados_Menu.h"
+	"AnalisisDados.h"
+	"MayorPuntaje.h"
+	"GotoXY.h"
+
+1606253891 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\dosjugadores.h
+	"FuncionesDados.h"
+	"FuncionesDados_Menu.h"
+	"AnalisisDados_DJ.h"
+	"AnalisisDados.h"
+
+1605483441 d:\utn frgp\utn frgp\segundo cuatrimestre\laboratorio de computacion i\proyecto final\bunco\bunco\analisisdados_dj.h
+	"GotoXY.h"
+	"AnalisisDados.h"
+
